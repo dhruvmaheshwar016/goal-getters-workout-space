@@ -1,6 +1,5 @@
-
 import React, { useState } from 'react';
-import { Search, Filter, Play, Clock, Target } from 'lucide-react';
+import { Search, Filter, Play, Clock, Target, Activity } from 'lucide-react';
 
 const exercises = [
   {

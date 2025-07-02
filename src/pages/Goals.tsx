@@ -1,6 +1,6 @@
 
 import React, { useState } from 'react';
-import { Target, Plus, Calendar, TrendingUp } from 'lucide-react';
+import { Target, Plus, Calendar, TrendingUp, Activity } from 'lucide-react';
 import { CircularProgressbar, buildStyles } from 'react-circular-progressbar';
 import 'react-circular-progressbar/dist/styles.css';
 
